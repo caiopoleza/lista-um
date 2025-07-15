@@ -21,7 +21,7 @@
         if ($numero > 0) {
             echo "O número $numero e positivo.";
         } elseif ($numero < 0) {
-            echo "O número $numero e negativo.";
+            echo "O numero $numero e negativo.";
         } else {
             echo "O número e zero.";
         }

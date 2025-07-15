@@ -14,11 +14,11 @@
 
    <?php
    
-   if($_SERVER['REQUEST_METHOD'] == 'POST'){
+   if($_SERVER['REQUEST_METHOD'] == 'POST')saq
 
     if(isset($_POST['Tabuada'])){
         $numero = $_POST['Tabuada'];
-          * 0++
+         
         if($numero % 2 == 0){
          echo "O número é Par $numero";
 
